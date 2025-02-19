@@ -1,5 +1,7 @@
-# 💫 Hello World! I'm Kasun, a Web Developer:
-  👨‍💻I am working as a web developer <br>
+<img src=".github/workflows/Banner.png" alt="GitHub Banner" width="100%" />
+
+# 💫 Hello World! I'm Kasun, a Software Developer:
+  👨‍💻I am working as a web & software developer <br>
   📚I'm currently learning spring-boot <br>
   🈚In my free time, I watch movie
 
