@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Java+Spring+Boot+Developer;Full+Stack+Web+Developer;Machine+Learning+Explorer;Spoken+English+Instructor)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Java+Spring+Boot+Developer;Full+Stack+Web+Developer;Machine+Learning+Explorer)
 
   [![GitHub followers](https://img.shields.io/github/followers/Kasun0401?label=Follow&style=social)](https://github.com/Kasun0401)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-amaraweera/)
